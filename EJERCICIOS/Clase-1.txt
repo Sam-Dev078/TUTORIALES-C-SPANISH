@@ -1,0 +1,9 @@
+Ejercicios para la primera clase:   //algo así como la tarea pero no tan aburrido.
+
+Empezemos por practicar el uso de la función printf (quizá ya lo hicieron basandose en el primer tutorial
+pero esta vez haslo sin guiarte por él).
+
+Experimenten un poco con ella (que pasa si añades una función dentro de otra, o si no ponen el texto entre
+comillas, prueben que tan flexible puede ser el lenguaje C).
+
+Prueben a crear mas de una funció en un mismo programa.
