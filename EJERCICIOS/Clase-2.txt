@@ -1,0 +1,10 @@
+En la clase 2 aprendiste el funcionamiento de la función while() así que ahora te traigo algunos ejericios 
+para que te familiarices un poco con su funcionamiento:
+
+Empecemos con lo siguiente, primero intenta invertir la tabla que se encuentra en la clase, puedes guiarte
+por ella pero intenta recrearla en solitario.
+
+Prueba a crear un bucle o otra tabla con los datos que gustes utilizando la misma función.
+ejemplo las X y Y de alguna función.
+
+puedes probar a crear un sumador o un contador regresivo.
