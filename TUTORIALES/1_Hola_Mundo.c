@@ -37,5 +37,4 @@ int main(void)
 } /* y estos signos que veriamos luego del main y al final son los que encierran las funciones que se 
 inician dentro del main (se puede encontrar en muchas otras funciones) */ 
 
-	//Cualquier pregunta o alguien que quiera contactarme ya se por dudas o para colaborar 
-	//me pueden encontrar en face como Andry Samuel Pérez Batista luego añadiré mi insta.
+	//Cualquier pregunta o alguien que quiera contactarme ya se por dudas o para colaborar
