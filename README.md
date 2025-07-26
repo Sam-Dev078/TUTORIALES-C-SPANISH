@@ -1,4 +1,4 @@
-# TUTOS-C-Español
+# TUTORIALES-C-Español
 Este repo contendrá algunas clases y ejercicios que escribí en mi tiempo libre los doy junto a grandes explicaciones con las que espero todos entiendan
 así que si quieres aprender a la par que yo aprendo y voy subiendo mas contenido no dudes en unirte, si gustas ayudar con más contenido no dudes en pedir que me contacte contigo.
 
