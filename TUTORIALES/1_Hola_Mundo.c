@@ -1,7 +1,7 @@
 /*Este será el primer tutorial de C donde explicaré algunas pequeñas cosas 
 También quiero decir que intentaré subir más de forma seguida pero esto lo hago para mi aprendisaje
 y de paso ayudar a todo el quiera iniciar ya que la mayoria por no decir que todo lo que abarca en el internet
-para aprender este lenguaje se encuentra en inglés
+para aprender este lenguaje se encuentra en inglés 
 
 Otra cosa:
 no busco copiar el contenido y apropiarme de él por esto aviso que todo lo que mostraré 
